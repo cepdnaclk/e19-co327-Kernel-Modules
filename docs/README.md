@@ -41,7 +41,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 ## Links
 
 - [Project Repository](https://github.com/cepdnaclk/e19-CO327-Kernel-Modules)
-- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
+- [Project Page](https://cepdnaclk.github.io/e19-CO327-Kernel-Modules/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
