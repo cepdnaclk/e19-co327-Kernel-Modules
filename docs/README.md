@@ -3,13 +3,13 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
+repository-name: e19-CO327-Kernel-Modules
+title:Operating Systems Project
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Operating Systems Project
 
 ---
 
@@ -20,9 +20,8 @@ This is a sample image, to show how to add images to your page. To learn more op
  -->
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  e19166, Jayathunga W.W.K., [email](mailto:e19166@eng.pdn.ac.lk)
+
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -41,7 +40,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
+- [Project Repository](https://github.com/cepdnaclk/e19-CO327-Kernel-Modules)
 - [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
